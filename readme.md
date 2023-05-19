@@ -8,29 +8,23 @@
 
 ## Activity 1 - [Variables, decision structures and loops]
 
-<a href="./src/"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-
---
+<a href="./src/Activity_1"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 
 ## Activity 2 - [ Arrays ]
 
-<a href="./src/"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-
---
+<a href="./src/Activity_2"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 
 ## Activity 3 - [ POO ]
 
-<a href="./src/"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-
----
+<a href="./src/Activity_3"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 
 ## Activity 4 - [ Banking Account - Bee Bank ]
 
 <b>That's officially my first java project that emulates a bank account with difrente types ou acccounts where you can perform specific actions</b>
 
-<a href="./src/"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
+<a href="./src/Activity_4"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 
----
+--
 
 ## Activity 5 - [ API done with Spring Boot ]
 
