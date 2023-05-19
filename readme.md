@@ -24,8 +24,6 @@
 
 <a href="./src/Activity_4"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 
---
-
 ## Activity 5 - [ API done with Spring Boot ]
 
 <b>For ending the bootcamp, we did this group project where were suposed to develop an API capable of register and Login users and do the complete CRUD for Products and Categories</b>
