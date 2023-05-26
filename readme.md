@@ -14,7 +14,7 @@
 
 <a href="./src/Activity_2"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 
-## Activity 3 - [ POO ]
+## Activity 3 - [ OOP ]
 
 <a href="./src/Activity_3"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 
